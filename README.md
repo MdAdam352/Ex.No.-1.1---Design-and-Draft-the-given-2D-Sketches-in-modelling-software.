@@ -1,3 +1,5 @@
+![EDM EXP 1 1](https://github.com/user-attachments/assets/757ef5f2-6327-42e2-a33c-3540c0d6531f)
+![EDM EXP 1 1](https://github.com/user-attachments/assets/a38c5a59-53ce-4ace-9ad2-2612311990b2)
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
@@ -42,6 +44,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![EDM EXP 1 1](https://github.com/user-attachments/assets/298e9455-53e2-4991-8f83-6f98ca0671c5)
+![EDM EXP 1 1](https://github.com/user-attachments/assets/dcf0223b-9cc8-40e8-9464-6432958d4100)
 
 
 ## RESULT
